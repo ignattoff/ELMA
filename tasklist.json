@@ -1,0 +1,67 @@
+[
+    {
+        "id": "a0be8ef7-8368-4260-afb1-9066a56fd8",
+        "subject": "Анализ",
+        "description": "",
+        "creationAuthor": 1,
+        "executor": 1,
+        "creationDate": "2021-06-02",
+        "planStartDate": "2021-06-02",
+        "planEndDate": "2021-06-04",
+        "endDate": "2021-06-02",
+        "status": 1,
+        "order": 1
+    },
+    {
+        "id": "794b451d-dedc-47fb-ac95-68304886f1d4",
+        "subject": "Планирование",
+        "description": "",
+        "creationAuthor": 1,
+        "executor": 1,
+        "creationDate": "2021-06-02",
+        "planStartDate": "2021-06-03",
+        "planEndDate": "2021-06-04",
+        "endDate": "2021-06-02",
+        "status": 1,
+        "order": 1
+    },
+    {
+        "id": "7e2460a9-6c97-4885-8500-78acb2cf9eef",
+        "subject": "Проектирование",
+        "description": "",
+        "creationAuthor": 1,
+        "executor": 2,
+        "creationDate": "2021-06-02",
+        "planStartDate": "2021-06-04",
+        "planEndDate": "2021-06-07",
+        "endDate": "2021-06-02",
+        "status": 1,
+        "order": 1
+    },
+    {
+        "id": "1be4b1d7-b27b-4680-87d4-57f1c0652cef",
+        "subject": "Разработка",
+        "description": "",
+        "creationAuthor": 1,
+        "executor": 3,
+        "creationDate": "2021-06-02",
+        "planStartDate": "2021-06-04",
+        "planEndDate": "2021-06-09",
+        "endDate": "2021-06-02",
+        "status": 1,
+        "order": 1
+    },
+    {
+        "id": "d178f362-7748-475e-b7b9-c77ffa2346a5",
+        "subject": "Тестирование",
+        "description": "",
+        "creationAuthor": 1,
+        "executor": null,
+        "creationDate": "2021-06-02",
+        "planStartDate": "2021-06-08",
+        "planEndDate": "2021-06-09",
+        "endDate": "2021-06-02",
+        "status": 1,
+        "order": 1
+    }
+]
